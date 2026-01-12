@@ -1,2 +1,2 @@
 # Tax-Plan-01
-Choose between I Co and SMSF
+Choose between Individual Company and SMSF
